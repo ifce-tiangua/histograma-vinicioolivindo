@@ -3,7 +3,6 @@ saida.out:
 
 clean:
 	rm a.out
-
 test-inputs: test1 test2 test3 clean
 
 test-alloc: test4 test5 clean
